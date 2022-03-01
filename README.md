@@ -1,4 +1,2 @@
-### Hi there 👋
-- 🔭 I’m currently working on Behlhaan
-- 🌱 I’m currently learning design patterns
+-  I’m currently working on Jaroob
 - 📫 How to reach me: alirezaavarsaji@gmail.com
